@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,aACI,wBACJ,CAEA,OACI,aACJ","file":"main.78d52301.chunk.css","sourcesContent":[".color-fondo{\n    background-color: #862633;\n}\n\n.color{\n    color: #862633;\n}\n"]}
