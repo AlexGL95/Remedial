@@ -5,7 +5,7 @@ import { Link, NavLink } from 'react-router-dom'
 
 export const Navbar = () => {
 
-    const logo =  `/assets/logolg.png`
+    const logo =  `https://s3.us-east-2.amazonaws.com/biitacora.develop.com/logolg.png`
 
 
     return (

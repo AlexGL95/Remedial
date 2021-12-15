@@ -13,10 +13,10 @@ export const DashboardRoutes = () => {
         <>
             <Navbar />
                 <Routes>
-                    <Route path="/home"element={<HomeScreen />} />
-                    <Route path="model" element={<ModelScreen />} />
-                    <Route path="model/:modelId" element={<Model />} />
-                    <Route path="/" element={<ModelScreen />} />
+                    <Route path="./home"element={<HomeScreen />} />
+                    <Route path="./model" element={<ModelScreen />} />
+                    <Route path="./model/:modelId" element={<Model />} />
+                    <Route path="./" element={<ModelScreen />} />
                 </Routes>
             <Footer />
         </>
