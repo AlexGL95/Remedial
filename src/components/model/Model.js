@@ -28,7 +28,7 @@ export const Model = () => {
         specs3,
     } = model;
 
-    const imagePath = `/assets/${ id }.jpg`;
+    const imagePath = `https://s3.us-east-2.amazonaws.com/biitacora.develop.com/${ id }.jpg`;
 
     return (
         <div className="row justify-content-center mt-5">
