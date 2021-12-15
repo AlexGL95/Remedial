@@ -1,6 +1,7 @@
 export const models = [
     {
         'id': 'bagger',
+        'url':'https://s3.us-east-2.amazonaws.com/biitacora.develop.com/bagger.jpg',
         'modelName':'Bagger', 
         'model':'indian', 
         'desc':'NACIDA DE UNA NECESIDAD, EVOLUCIONADA A UN LEGADO',
@@ -10,6 +11,7 @@ export const models = [
     },
     {
         'id': 'chief-home',
+        'url':'https://s3.us-east-2.amazonaws.com/biitacora.develop.com/chief-home.jpg',
         'modelName':'Chief Home', 
         'model':'indian', 
         'desc':'DONDE SE ENCUENTRAN ESTILO Y DESEMPEÑO',
@@ -19,6 +21,7 @@ export const models = [
     },
     {
         'id': 'dark-horse',
+        'url':'https://s3.us-east-2.amazonaws.com/biitacora.develop.com/dark-horse.jpg',
         'modelName':'Dark Horse', 
         'model':'indian', 
         'desc':'UN TOQUE OSCURO EN EL DISEÑO PREMIUM',
@@ -28,6 +31,7 @@ export const models = [
     },
     {
         'id': 'scout-60',
+        'url':'https://s3.us-east-2.amazonaws.com/biitacora.develop.com/scout-60.jpg',
         'modelName':'Scout 60', 
         'model':'indian', 
         'desc':'CLÁSICA & NATURALMENTE ATRACTIVA',
@@ -37,6 +41,7 @@ export const models = [
     },
     {
         'id': 'scout-bobber',
+        'url':'https://s3.us-east-2.amazonaws.com/biitacora.develop.com/scout-bobber.jpg',
         'modelName':'Scout Bobber', 
         'model':'indian', 
         'desc':'GRANDES COSAS LLEGAN PARA LOS QUE LAS PERSIGUEN',
@@ -46,6 +51,7 @@ export const models = [
     },
     {
         'id': 'scout',
+        'url':'https://s3.us-east-2.amazonaws.com/biitacora.develop.com/scout.jpg',
         'modelName':'Scout', 
         'model':'indian', 
         'desc':'LO CLÁSICO VIENE DE FÁBRICA',
@@ -55,6 +61,7 @@ export const models = [
     },
     {
         'id': 'touring',
+        'url':'https://s3.us-east-2.amazonaws.com/biitacora.develop.com/touring.jpg',
         'modelName':'Touring', 
         'model':'indian', 
         'desc':'SIÉNTETE EN CASA MIENTRAS RUEDAS',

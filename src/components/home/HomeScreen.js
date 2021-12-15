@@ -1,10 +1,10 @@
 
 export const HomeScreen = () => {
 
-    const img1path = `/assets/ind01.jpg`;
-    const img2path = `/assets/ind02.jpg`;
-    const img3path = `/assets/ind03.jpg`;
-    const img4path = `/assets/ind04.jpg`;
+    const img1path = `https://s3.us-east-2.amazonaws.com/biitacora.develop.com/ind01.jpg`;
+    const img2path = `https://s3.us-east-2.amazonaws.com/biitacora.develop.com/ind02.jpg`;
+    const img3path = `https://s3.us-east-2.amazonaws.com/biitacora.develop.com/ind03.jpg`;
+    const img4path = `https://s3.us-east-2.amazonaws.com/biitacora.develop.com/ind04.jpg`;
     return (
         <div className='row justify-content-center'>
             <div className='col-12 col-sm-10 mt-sm-2 col-md-11 col-lg-10'>
